@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+     Copyright (C) 2014 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Rejestrator Ekranu</string>
+    <string name="share">Udostępnij</string>
+    <string name="stop">Zatrzymaj</string>
+    <string name="insufficient_storage">Brak miejsca</string>
+    <string name="show_touches">Pokaż dotknięcia</string>
+    <string name="hide_touches">Ukryj dotknięcia</string>
+    <string name="recording">Nagrywanie\u2026</string>
+    <string name="recording_ready_to_share">Nagranie gotowe do udostępnienia</string>
+    <string name="video_length">Długość wideo: %s</string>
+    <string name="not_enough_storage">Niewystarczająca ilość wolnego miejsca</string>
+    <string name="start_description">Stuknij, aby rozpocząć nagrywanie ekranu swojego urządzenia</string>
+    <string name="stop_description">Stuknij, aby zatrzymać nagrywanie</string>
+    <string name="with_audio">Dołącz dźwięk z mikrofonu</string>
+    <string name="no_audio_setting_warning">Aby dołączyć dźwięk, <b>stuknij tutaj</b>, aby przejść do Ustawień i włączyć uprawnienia mikrofonu dla tej aplikacji</string>
+    <string name="preview_size_s">Mały</string>
+    <string name="preview_size_n">Normalny</string>
+    <string name="preview_size_l">Duży</string>
+    <string name="audio_source_mic">Mikrofon</string>
+    <string name="audio_source_submix">Wewnętrzne audio</string>
+    <string name="orientation_p">Portret</string>
+    <string name="orientation_l">Krajobraz</string>
+    <string name="orientation_a">AUTO</string>
+    <string name="category_audio">Dźwięk</string>
+    <string name="audio_xopsed_desc"><b>UWAGA:</b> Submix działa tylko na urządzeniu z zainstalowanym Xposed i aktywowanym modułem Screenrecorder</string>
+    <string name="category_video">Wideo</string>
+    <string name="category_others">Pozostałe</string>
+    <string name="category_accessibility">Dostępność</string>
+    <string name="category_camera">Kamera</string>
+    <string name="warn_only_root">Tylko na zrootowanym urządzeniu</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="title_with_audio">Nagraj dźwięk</string>
+    <string name="title_audio_source">Źródło dźwięku</string>
+    <string name="title_sound_effect">Dźwięk migawki</string>
+    <string name="title_shake_action">Potrząśnij, aby zatrzymać</string>
+    <string name="title_with_camera">Pokaż podgląd</string>
+    <string name="title_high_res">Rozdzielczość</string>
+    <string name="title_orientation">Orientacja</string>
+    <string name="title_preview_size">Rozmiar podglądu</string>
+    <string name="title_switch_camera">Przełącz kamerę</string>
+    <string name="title_start_delay">Opóźnienie</string>
+    <string name="title_show_cd">Pokaż odliczanie</string>
+    <string name="title_show_touch">Pokaż dotknięcie</string>
+    <string name="title_auto_hide">Minimalizuj</string>
+    <string name="title_app_info">Informacja zwrotna</string>
+    <string name="title_storage">Miejsce przechowywania</string>
+    <string name="title_app_license">Licencja</string>
+    <string name="title_with_ad">Pokaż reklamę</string>
+    <string name="title_perm_require">Uprawnienia</string>
+    <string name="summary_perm_require">Inorder to show ADs, we are requiring LOCATION and PHONE permissions, and you can choose to deny if you mind this</string>
+    <string name="summary_audio">Dołącz dźwięk z mikrofonu</string>
+    <string name="summary_camera">Show a floating camera preview window on the UI interface</string>
+    <string name="summary_auto_hide">Zamknij aplikację podczas nagrywania</string>
+    <string name="summary_start_delay">Odczekaj chwilę przed rozpoczęciem nagrywania</string>
+    <string name="summary_storage">Find videos in %1$s</string>
+    <string name="summary_with_ad">Can be closed once a click</string>
+    <string name="summary_add_on">:) OOXX</string>
+    <string name="summary_add_off">:(</string>
+    <string name="summary_res_auto">AUTO</string>
+    <string name="action_play">Odtwórz</string>
+    <string name="action_remove">Usuń</string>
+    <string name="action_rename">Zmień nazwę</string>
+    <string name="action_togif">Konwertuj na GIF</string>
+    <string name="action_share">Udostępnij</string>
+    <string name="recorder_file_prefix">Nagranie_</string>
+    <string name="hint_new">Nowy</string>
+    <string name="title_licenses">Licencja Open Source</string>
+    <string name="warn_sdk_title">Co do cholery</string>
+    <string name="warn_sdk_low">This APP is built only for SDK version larger than Lollipop</string>
+    <string name="app_code">Tornaco@163.com</string>
+    <string name="install">Zainstaluj</string>
+    <string name="title_activity_drawer_screencast">DrawerScreencastActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ustawienia</string>
+    <string name="xposed_desc">Recoding the screen with full system audio output</string>
+    
+     <string name="got_it">ROZUMIEM</string>
+</resources>
