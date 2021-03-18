@@ -91,6 +91,6 @@
 
     <string name="action_settings">Ustawienia</string>
     <string name="xposed_desc">Recoding the screen with full system audio output</string>
-    
-     <string name="got_it">ROZUMIEM</string>
+
+    <string name="got_it">ROZUMIEM</string>
 </resources>
